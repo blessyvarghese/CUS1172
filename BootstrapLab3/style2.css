@@ -1,0 +1,67 @@
+/* style2.css */
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px 12px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-top: 0;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #4F0D33;
+  color: white;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: lavenderblush;
+  color: black;
+}
+.topnav {
+  background-color: lavenderblush;
+  color: black;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  margin-top:0;
+  z-index: 1;
+}
+h1 {
+  background-color: ghostwhite;
+  background-image: url("purple.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align:center;
+  padding: 70px 0px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 2px #4F0D33;
+}
+h5{
+  padding: 15px;
+  border-style: double;
+  background-color: #4F0D33;
+  color: white;
+}
+img{
+  float: none;
+  padding: 5px;
+  margin: 0px;
+  position: relative;
+}
+h3{
+  text-align: left;
+  font-size: 2em;
+  padding: 15px;
+  border-style: double;
+  background: #4F0D33;
+  color: white;
+}
+div{
+  padding: 15px;
+}
+.jumbotron {
+  background-color: #EDEDED;
+}
