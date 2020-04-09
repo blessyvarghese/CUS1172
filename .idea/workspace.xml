@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84a3e62a-0c08-4867-98a8-12bfc1f87f52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BootstrapLab3/class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class4.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spa_app_demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLab3/class.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapLab3/class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLab3/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapLab3/css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLab3/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/BootstrapLab3/style2.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +40,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.class.html">
+    <configuration name="class.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CUS1172/BootstrapLab3/class.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="css.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CUS1172/BootstrapLab3/css.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CUS1172/Practice/home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+        <item itemvalue="JavaScript Debug.class.html" />
         <item itemvalue="JavaScript Debug.css.html" />
       </list>
     </recent_temporary>
@@ -53,7 +68,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582202678356</updated>
-      <workItem from="1582202683554" duration="17021000" />
+      <workItem from="1582202683554" duration="18281000" />
+      <workItem from="1582662799270" duration="5828000" />
+      <workItem from="1585828616011" duration="1646000" />
+      <workItem from="1586470012634" duration="2013000" />
     </task>
     <servers />
   </component>
@@ -65,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
